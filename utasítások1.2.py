@@ -10,7 +10,3 @@ elif c < b :
 
 else:
     print("az nemjó tesi")
-
-
-    
-  
